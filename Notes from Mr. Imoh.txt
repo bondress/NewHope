@@ -1,6 +1,0 @@
-use a check constraint in place of trigger for payment method
-merge create objects and relationships scripts
-leave out column level constraints in constraints script
-for project format: for each table, write a brief summary of the information contained in each table after the table specifications and also add a screenshot of the content of the table
-remove encryption from what will be submitted
-ensure that the readme file is updated accordingly
